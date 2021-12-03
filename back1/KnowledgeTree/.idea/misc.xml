@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.141" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable-xhdpi/dp_1.xml" value="0.1925" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable-xhdpi/ed_1.xml" value="0.1905" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable-xhdpi/组 400.xml" value="0.1925" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable/home.xml" value="0.213" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable/ic___345.xml" value="0.125" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable/ic___405.xml" value="0.1925" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable/ic_design_performance.xml" value="0.213" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable/ic_knowledge_tree.xml" value="0.1" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable/ic_launcher_background.xml" value="0.141" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable/ic_mimain_like.xml" value="0.128" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable/login_3.xml" value="0.128" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable/login_4.xml" value="0.128" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable/mi_bookmark.xml" value="0.1" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable/mimain_feedback.xml" value="0.128" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/drawable/search_2.xml" value="0.1905" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/font/d1111d.xml" value="0.23703703703703705" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.141" />
+        <entry key="..\:/my class/Android/tree/KnowledgeTree/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.141" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="androidx.room.Entity" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
